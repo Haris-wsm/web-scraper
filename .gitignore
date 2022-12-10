@@ -1,0 +1,9 @@
+client/.env
+client/node_modules
+client/package-lock.json
+
+backend/.env
+backend/node_modules
+backend/package-lock.json
+backend/tmp
+

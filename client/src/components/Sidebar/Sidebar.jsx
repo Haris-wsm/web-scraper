@@ -27,6 +27,7 @@ const SidebarItemsWrapper = styled(Box)(({ theme }) => ({
   maxHeight: "calc(100vh - 1.5em)",
   overflowY: "auto",
   padding: "1em 1em 1.5em 1em",
+  height: "calc(100vh - 1em - 4em - 0.25em)",
   "&::-webkit-scrollbar": {
     display: "none",
   },
